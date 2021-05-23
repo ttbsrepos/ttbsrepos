@@ -2,4 +2,4 @@
 - 👀 I’m interested in producing creative solutions
 - 🌱 I’m currently learning about interactive conversations
 - 💞️ I’m looking to collaborate on chatbots and the web tech
-- 📫 You can reach out to my manager at abhishek.chatterjee@technotask.co.in
+- 📫 You can reach out to the IT Manager at abhishek.chatterjee@technotask.co.in
